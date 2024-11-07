@@ -1,6 +1,6 @@
 # EX NO:- 3  -  Railway-Reservation-System
-# Name - S.Mohammed Parvez
-# Reg No - 212223010113
+# Name - Ameesha Jeffi
+# Reg No - 212223220007
 # AIM
  To Develope the Railway Reservation System using Star UML tool.
 # PROBLEM STATEMENT
